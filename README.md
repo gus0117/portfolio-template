@@ -1,27 +1,25 @@
 # Trayecto de Formación: FullStack Web Developer :rocket:
 
-:package: **Módulo 1: Entorno de trabajo y control de versiones**
-
-## Introducción
-Hola! :smile: Éste es el primer proyecto con el que daremos nuestros primeros pasos en el desarrollo de software. Nuestro camino iniciará con Visual Studio Code, Git y Github, a lo largo de este módulo nos familiarizaremos con este entorno de trabajo. Recuerda que pronto armaremos equipos de desarrollo así que te recomendamos que te vayas preparando. Tú y tu equipo experimentarán situaciones donde deberán coordinarse y cooperar para tener éxito, esto te dará un pequeño vistazo de lo que hay allí afuera.
-
-Sin más que decir, te deseamos éxitos en este camino de formación! :clap:
+## Bienvenido a mi portfolio :wave:
+Hola! :smile: gracias por visitar mi portfolio, me presento, soy Gustavo Alberto Ordoñez, futuro desarrollador fullstack y estudiante de la carrera Analista Programador Universitario de la Universidad Nacional de Jujuy Facultad de Ingeniería. En este pequeño proyecto conoceras algunos de mis trabajos y habilidades. También conoceras un poco más sobre mi. Espero la visita sea de su agrado.
 
 ## Instalación
 
-Para iniciar con este proyecto debes tener lo siguiente:
+Si tienes Git instalado puedes ejecutar el siguiente comando en tu bash:
 
-- Visual Studio Code Instalado
-- Git Instalado
-- No necesitas cuenta de GitHub pero la necesitarás mas adelante. Te recomiendo que te vayas registrando.
+``` bash
+ $ git clone https://github.com/gus0117/portfolio-template.git
+```
+
+![Sino puedes descargate el proyecto como zip](./assets/github.gif "github gif")
 
 ## Iniciar el proyecto
 
-Una recomendación nuestra es que uses la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para VS Code. Esta extensión te permite iniciar un servidor en tiempo real y ver los cambios que se hagan en el código.
+Puedes utilizar cualquier navegador o bien alguna extensión para VSCode como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 ## Manejo de problemas
 
-Si tienes alguna duda o problema que no se puede resolver en el proyecto te animamos a que lo consultes con los instructores. El problema que enfrentas puede sucederle a otro compañero.
+Si tienes algún problema o duda, puedes enviarme un correo electrónico a gustavoalberto117@gmail.com y trataré de responderte a la brevedad.
 
 ## Recursos
 
