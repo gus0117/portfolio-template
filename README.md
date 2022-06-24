@@ -11,7 +11,9 @@ Si tienes Git instalado puedes ejecutar el siguiente comando en tu bash:
  $ git clone https://github.com/gus0117/portfolio-template.git
 ```
 
-![Sino puedes descargate el proyecto como zip](./assets/github.gif "github gif")
+Sino, también puedes descargar el proyecto como un archivo zip
+
+![Ejemplo download gif](./assets/download-zip.gif "github gif")
 
 ## Iniciar el proyecto
 
